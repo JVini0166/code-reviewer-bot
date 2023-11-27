@@ -1,0 +1,17 @@
+# Config file
+config.ini
+id_rsa
+id_rsa.pub
+# Directories
+repo/
+venv/
+static/
+__pycache__/
+.idea/
+
+./repo/
+./venv/
+./static/
+./templates/
+./__pycache__/
+./.idea/
