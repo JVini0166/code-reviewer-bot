@@ -8,10 +8,6 @@ Este bot foi desenvolvido para integrar o Azure DevOps ao OpenAI. Ele busca auto
 - Principais Bibliotecas Python: `requests`, `gitpython`, `openai`
 - Tokens de autenticação para Azure DevOps e OpenAI
 
-## Repositório
-
-[GitLab Repository](https://gitlab.com/platosedu/cosmos/devops/young-sheldon)
-
 ## Configuração Inicial
 
 Antes de executar o bot, configure os tokens de autenticação e os URLs da API no arquivo `config.ini`.
